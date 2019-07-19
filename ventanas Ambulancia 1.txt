@@ -1,0 +1,6 @@
+- Logueo
+* administracion de usuarios (editar - eliminar)
+* crear usuarios
+* restablecer cuenta
+
+
