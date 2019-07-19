@@ -4,3 +4,27 @@
 * restablecer cuenta
 
 
+- ingreso de ambulancias (Datos de la ambulancia)
+- administracion de ambulancias
+- editar datos de ambulancia 
+- ingreso de empleados
+- administracion de empleados
+- editar datos de empleados
+
+- datos de un paciente (fecha de recogida, horario de recogida, ruta 	de recogida, fecha de entrega de paciente, hora de entrega, lugar o ruta de entrega)
+- datos de acompañante (nombre, paciente que acompaña, parentezco con 	paciente, datos básicos)
+- datos y medios de pago
+- 
+
+Agendamientos (programar recogidas a pacientes recurrentes)
+- ingreso de proveedores
+- administracion de proveedores
+- edicion datos de proveedores
+- ventana de alertamiento por pacientes
+- ventana de alertamiento por insumos
+- cálculo de gastos para un servicio (control de gastos fijos por servicio dependiendo el sitio en los cuales incluirá el gasto en combustible, impuestos de rodamiento, viáticos de la ambulancia (1 conductor y 1 ayudante camillero) los cuales se podrán deducir dependiendo el desplazamiento sea en la ciudad, departamento o el resto del país.)
+
+- ingresar peajes y rutas de los mismos
+- administrar peajes y rutas
+- editar peajes y rutas
+- ventana de WAZE para conocer las rutas y posibles accidentes
